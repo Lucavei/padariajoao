@@ -11,3 +11,11 @@ p {
     text-align: center;
     color: rgb(219, 65, 65);
 }
+#entrada {
+ width: 50%;
+ height: 50px;
+}
+#cartaz {
+  width: 50%;
+  height: 50px;
+}
