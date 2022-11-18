@@ -16,3 +16,8 @@ p {
     height:50% ;
     margin: 40px;
 }
+.catraz {
+    font-size: 26px;
+    text-align: right;
+    position: relative;
+}
