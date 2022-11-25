@@ -15,10 +15,7 @@ p {
     text-align: center;
     color: rgb(219, 65, 65);
 }
-#slogol {
-    position: absolute;
-    position: bottom;
-}
+
 #entrada {
     width: 50%;
     height:50% ;
@@ -32,4 +29,8 @@ p {
     margin-bottom: 2%;
     margin-left: 3%;
     margin-right: 3%;
+}
+#slogol {
+    position: absolute;
+    position: bottom;
 }
