@@ -18,7 +18,8 @@ p {
 }
 .catraz {
     font-size: 26px;
-    text-align: center left top;
+    text-align: center left;
     position: relative;
     color: crimson;
+    margin: 5px;
 }
