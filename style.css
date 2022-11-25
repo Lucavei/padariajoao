@@ -1,7 +1,9 @@
 body {
     background: #CCCCCC;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 2%;
+    margin-bottom: 2;
 }
 .jp {
     font-size: 30px;
