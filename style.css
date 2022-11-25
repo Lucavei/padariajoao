@@ -21,5 +21,7 @@ p {
     text-align: center left;
     position: relative;
     color: darkred;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
