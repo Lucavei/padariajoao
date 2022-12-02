@@ -7,8 +7,9 @@ body {
 }
 #logo {
     position: absolute;
-    width: 50%;
-    height: 30%;
+    width: 20%;
+    height: 10%;
+    margin-top: 3%;
 }
 .jp {
     font-size: 30px;
