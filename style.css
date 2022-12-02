@@ -5,6 +5,11 @@ body {
     margin-top: 2%;
     margin-bottom: 2;
 }
+#logo {
+    position: absolute;
+    width: 50%;
+    height: 30%;
+}
 .jp {
     font-size: 30px;
     text-align: center;
